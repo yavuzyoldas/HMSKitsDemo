@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScanKitAndDriveKit</string>
+    <string name="qr_code">QR Code Content</string>
+    <string name="filename">Please Enter File Name</string>
+    <string name="save">save</string>
+    <string name="cancel">cancel</string>
+    <string name="info">If Qr code content are going to saved,Please login Huawei Drive.</string>
+    <string name="scan_info">QR Code Scan</string>
+    <string name="login_info">Login Huawei Drive</string>
+</resources>
